@@ -1,2 +1,2 @@
 # AQI_SpatiotemporalStudy
-Spatiotemporal study done on AQI of four Indian cities.
+An academic research project by three MSc Statistics students intended to compete in ISPS 2020.
